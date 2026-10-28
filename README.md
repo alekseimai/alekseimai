@@ -4,9 +4,9 @@ I'm Oleksii Mai, a Rust engineer, Web3 quant and shader developer based in Czech
 
 ### Building
 
-**SynapseHFT** — a private Rust project focused on high-frequency trading research, prediction markets and on-chain systems.
-
 **[WildClient](https://wildclient.org)** — a Minecraft client founded in 2020 and released in 2021. Wild has more than 100,000 users.
+
+**SynapseHFT** — a private Rust project focused on high-frequency trading research, prediction markets and on-chain systems.
 
 I also work on confidential professional projects in the field of mathematical analysis.
 
@@ -28,4 +28,4 @@ I started in game development with Unity and Unreal Engine 4, with projects incl
 **Graphics:** GLSL, WGSL, HLSL, wgpu  
 **Game development and ML:** Unity, Unreal Engine 4, TensorFlow
 
-[Portfolio](https://alekseimai.github.io) · [Telegram](https://t.me/lichoday) · [Instagram](https://instagram.com/lichoday)
+[Portfolio](https://alekseimai-portfolio.agilefield19.chatgpt.site) · [Telegram](https://t.me/lichoday) · [Instagram](https://instagram.com/lichoday)
